@@ -13,4 +13,4 @@ map j gj
 map k gk
 set laststatus=2
 set statusline+=%F
-set mouse=a
+"set mouse=a
