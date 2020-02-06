@@ -14,5 +14,5 @@ map k gk
 set laststatus=2
 set statusline+=%F
 "set mouse=a
-set noerrorbells
-set vb t_vb=
+set noerrorbells visualbell t_vb=
+autocmd GUIEnter * set visualbell t_vb=
